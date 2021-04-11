@@ -13,6 +13,6 @@ Typescript React Redux application uses github api
 
 
 
-## Improvements 
+### Improvements 
    - Add more tests 
    - Add abit of styling
